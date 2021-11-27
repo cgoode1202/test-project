@@ -2,4 +2,6 @@ git add <file-name>
 git commit -m "<comment>"
 git branch -M <branch>
 git remote add origin https://github.com/cgoode1202/test-project.git
+git remote set-url origin https://github.com/cgoode1202/test-project.git
+https://github.com/cgoode1202/Python.git
 git push -u origin <branch>
