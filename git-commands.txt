@@ -5,3 +5,6 @@ git remote add origin https://github.com/cgoode1202/test-project.git
 git remote set-url origin https://github.com/cgoode1202/test-project.git
 https://github.com/cgoode1202/Python.git
 git push -u origin <branch>
+
+git checkout -b <branch name> //create new branch and checkout
+git merge <branch name>
